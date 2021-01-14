@@ -1,4 +1,4 @@
-# Simple-IR-system
+## Simple-IR-system for Text Technologies for Data Science
 First completion for information retrieval system, but speed is a problem.
 
 Didn't do optimisation, so this code is in low efficiency.
